@@ -1,0 +1,304 @@
+.firstpage-navbar{
+    background-color: white;
+    align-items: center;
+    margin: 100 px;
+    
+}
+.firstpage-navbar li{
+    display: inline;
+    padding: 10px;
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+nav{
+    display: block;
+    margin-left: 200px;
+
+    padding: 20px;
+    padding-left: 10px;
+
+    width: 30%;
+    float: left;  
+}
+div.firstpage-navbar ul{
+    list-style-type: none;
+    text-decoration: none;
+}
+
+div.firstpage-navbar ul li a{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+
+}
+.web-brand-logo{
+    width: 374px;
+    height: 104px;
+    float: left;
+}
+div.login-and-sign-up{
+    float: right;
+    width: 30%;
+    height:100%;
+    font-size: 20px;
+    
+}
+ul.login-and-sign-up{
+    list-style-type: none;
+    text-align: center;
+    padding-top: 30px;
+    color: black;
+}
+ul.login-and-sign-up li{
+    display: inline;
+    padding: 10px;
+    text-align: center;
+    color: black;
+    
+}
+header{
+    /* border: 1px solid black; */
+    background-color: white;
+    height: 104px;
+    display: block;
+    margin-left: 100px ;
+    margin-right: 100px;
+    color: black;
+}
+section{
+    /* border: 1px solid black; */
+    height: auto;
+    width: 50%;
+    margin-left: 100px;
+    float: left;
+
+    
+}
+
+aside{
+    height: 480px;
+    width: 400px;
+    margin-right: 300px;
+    float: right;
+}
+
+body{
+    background-color: white    ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 1080px;
+    width: auto;
+}
+.landing-image{
+    width: 100px;
+    height:130px;
+    margin-right: 70px;
+    margin-top: 50px;
+    
+}
+aside img{
+    height: 100%;
+    width: 100%;
+    border-radius: 20%;
+    
+}
+a:link{
+    text-decoration: none;
+    color: black;
+
+}
+a:hover{
+    text-decoration:none;
+    color: rgb(0, 145, 255);
+    
+
+}
+a:active{
+    text-decoration: none;
+    color: blue;
+
+}
+a:visited { 
+    color:black; }
+
+footer{
+    background-color: none;
+    height: 20%;
+    width: 100%;
+    display: block;
+    margin-left: 100px ;
+    margin-right: 100px;    /* border: 1px solid black; */
+    clear: both;
+}
+div.images-of-landing-page{
+    height: 200px;
+    padding-left: 50px
+    
+}
+.footer-logo-img{    
+    width: 200px;
+    height: 40px;
+    float: left;
+    clear: left;
+    margin: 0 20px;
+}
+.footer-imgae{
+    width: 200px;
+    height: 40px;
+    float: right;
+    clear: right;
+    margin: 0 20px;
+    
+}
+.footer-navbar {
+    display: block;
+    padding-left: 400px;
+    
+    float: left;  
+}
+.footer-navbar li{
+    display: inline;
+    padding: 10px;
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 60px;
+    text-align: center;
+    text-decoration: none;
+    margin: 0px 0px;
+    color: white;
+    border-radius: 50%;
+
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+  .fa-pinterest {
+    background: #cb2027;
+    color: white;
+  }
+  
+  .fa-snapchat-ghost {
+    background: #fffc00;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }
+  
+  .fa-skype {
+    background: #00aff0;
+    color: white;
+  }
+  
+  .fa-android {
+    background: #a4c639;
+    color: white;
+  }
+  
+  .fa-dribbble {
+    background: #ea4c89;
+    color: white;
+  }
+  
+  .fa-vimeo {
+    background: #45bbff;
+    color: white;
+  }
+  
+  .fa-tumblr {
+    background: #2c4762;
+    color: white;
+  }
+  
+  .fa-vine {
+    background: #00b489;
+    color: white;
+  }
+  
+  .fa-foursquare {
+    background: #45bbff;
+    color: white;
+  }
+  
+  .fa-stumbleupon {
+    background: #eb4924;
+    color: white;
+  }
+  
+  .fa-flickr {
+    background: #f40083;
+    color: white;
+  }
+  
+  .fa-yahoo {
+    background: #430297;
+    color: white;
+  }
+  
+  .fa-soundcloud {
+    background: #ff5500;
+    color: white;
+  }
+  
+  .fa-reddit {
+    background: #ff5700;
+    color: white;
+  }
+  
+  .fa-rss {
+    background: #ff6600;
+    color: white;
+  }
+
+article{
+    height: 420px;
+    width: 310px;
+    margin-right: 40px;
+    float: left;
+    
+    
+}
+.article-image{
+    width: 100%;
+    height: 200px;
+}
+aside h3{
+    
+    color: black;
+}
